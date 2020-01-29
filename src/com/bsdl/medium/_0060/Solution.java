@@ -45,9 +45,8 @@ public class Solution {
         }
     }
 
-    public static void main(String[] args) {
+//    public static void main(String[] args) {
 //        Solution solution = new Solution();
 //        solution.getPermutation(3, 3);
-        System.out.println(1/3);
-    }
+//    }
 }
